@@ -4,6 +4,8 @@ Site de révision pour les tests du 15 oct., du 5 nov. et du 26 nov. : 775 quest
 
 **Ouvrir le site :** https://blefebvre-lfbvrr.github.io/Revion-TOEIC/
 
+Le dossier `qr/` contient un QR code vers ce lien, à imprimer sur tes fiches.
+
 ## Ce que fait le site
 
 - **Entraînement** : la correction et l'explication s'affichent après chaque réponse.
@@ -24,6 +26,7 @@ Elle est enregistrée dans le navigateur où tu révises. Pour la garder à l'ab
 |---|---|
 | `index.html` | Le site complet : un seul fichier, qui marche aussi hors ligne si tu double-cliques dessus. |
 | `cartes-anki.csv` | Les cartes pour Anki : Fichier › Importer, séparateur `;`, la 3e colonne contient les étiquettes. |
+| `qr/` | QR codes vers le site : l'étiquette avec titre, le QR seul en PNG et en SVG. |
 | `cartes-quizlet.txt` | Les cartes pour Quizlet : Importer, séparateur Tabulation, une carte par ligne. |
 
 Les réponses des exercices ont été déduites des fiches, sans corrigé fourni : en cas de doute, vérifie avec le corrigé.
